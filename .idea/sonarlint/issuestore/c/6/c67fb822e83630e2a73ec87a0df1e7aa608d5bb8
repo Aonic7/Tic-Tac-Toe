@@ -1,0 +1,44 @@
+
+K
+java:S1121=".Extract the assignment out of this expression.(λ―ρ²8δ¤Ήίρ.
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Μ¨¤Πόÿÿÿÿ8µόϊήρ.
+U
+java:S1197I"8Move the array designator from the variable to the type.(κ£±8™¤νίρ.
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(¦ί®8™¤νίρ.
+K
+java:S1121C".Extract the assignment out of this expression.(ήϋ”8υΆξίρ.
+V
+java:S1854E"9Remove this useless assignment to local variable "check".(Ρδλ£8Ϊ«οίρ.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(¦ί®8™¤νίρ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(μθ“–ψÿÿÿÿ8¤¤ρ†ρ.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Βυ–ψÿÿÿÿ8µόϊήρ.
+K
+java:S1121E".Extract the assignment out of this expression.(Ρδλ£8Ϊ«οίρ.
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(Β΅ΒH8µόϊήρ.
+V
+java:S1854="9Remove this useless assignment to local variable "check".(λ―ρ²8δ¤Ήίρ.
+K
+java:S11259")Remove the literal "false" boolean value.(όΖ‘¶ÿÿÿÿÿ8θϊΣίρ.
+t
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(²ΖζΕϋÿÿÿÿ8™¤νίρ.
+L
+java:S5411~"*Use the primitive boolean expression here.(ϊζΎωÿÿÿÿ8ΣΤΙρ.
+]	java:S125""<This block of commented-out lines of code should be removed.(ν¦ÿψÿÿÿÿ8µόϊήρ.
+P
+java:S1121:".Extract the assignment out of this expression.(ϊζ©Δÿÿÿÿÿ8›«Είρ.
+X	java:S125"<This block of commented-out lines of code should be removed.(„βΉσ8Ο…σέρ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ορ©ω8”†¶‹ρ.
+f
+java:S3358~"DExtract this nested ternary operation into an independent statement.(ϊζΎωÿÿÿÿ8ιο†ρ.
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(Ωΰ•πώÿÿÿÿ8ιο†ρ.
+T	java:S106V"9Replace this use of System.out or System.err by a logger.(§ΒΗ'8™¤νίρ.
+[
+java:S1854:"9Remove this useless assignment to local variable "check".(ϊζ©Δÿÿÿÿÿ8›«Είρ.
+b
+java:S3358€"DExtract this nested ternary operation into an independent statement.(ϊωη8™¤νίρ.
+L
+java:S5411"*Use the primitive boolean expression here.(Ωΰ•πώÿÿÿÿ8™¤νίρ.
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(®ύαλϋÿÿÿÿ8™¤νίρ.
+V
+java:S1854C"9Remove this useless assignment to local variable "check".(ήϋ”8υΆξίρ.
